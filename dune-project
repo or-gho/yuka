@@ -1,4 +1,5 @@
 (lang dune 3.25)
+(name yuka)
 
 (using melange 1.0)
 
